@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirti Bhosale</h1>
-<h3 align="center">Developer!</h3>
-
-<p align="left"> <a href="https://twitter.com/kirtibhosale136" target="blank"><img src="https://img.shields.io/twitter/follow/kirtibhosale136?logo=twitter&style=for-the-badge" alt="kirtibhosale136" /></a> </p>
+<h3 align="center">Web Developer!</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
