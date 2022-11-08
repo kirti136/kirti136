@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi-i&" alt="sakshi-i" /></p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakshi-i)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kirti136)  
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
