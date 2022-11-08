@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirti Bhosale</h1>
 <h3 align="center">Web Developer!</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F462900780%2F0a10af70-6cbf-46df-9071-0ff586a3b1d6&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwisv47BuJ77AhW2ktgFHVMJBb4QMygHegUIARCBAg..i&docid=xT3pU1tmgPb2_M&w=480&h=270&q=coding%20gif%20for%20github&hl=en&ved=2ahUKEwisv47BuJ77AhW2ktgFHVMJBb4QMygHegUIARCBAg">
 
 - 🌱 I’m currently learning **Javascript**
 
