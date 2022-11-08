@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Sakshi Dwivedi</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8DnviKfkbxDLCL89rZ-09ebcIU0_eEXRSKA&usqp=CAU)
