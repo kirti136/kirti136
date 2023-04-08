@@ -25,8 +25,8 @@
 
 
 
+<div>
 <h3 align="center">GitHub Stats</h3>
-
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirti136&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirti136&theme=github_dark">
@@ -34,3 +34,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirti136&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirti136&theme=github_dark&utcOffset=8">
 </p>
+</div>
