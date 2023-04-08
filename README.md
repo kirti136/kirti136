@@ -12,9 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 - 👨‍💻 All of my projects are available at [Portfolio](https://dcs1997.github.io)
-
 - 📫 How to reach me *dhirajsalvi099@gmail.com*
-
 - 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1GgP3iurT80s1oZq88EeYeGyXPJC_n_FU/view?usp=sharing)
 
 
