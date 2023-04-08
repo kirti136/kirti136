@@ -12,12 +12,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 - Details
-- 📫 E-mail *bhosalekirti2002@gmail.com*
-- 📄 [Resume](https://drive.google.com/file/d/1gQ1LyX41G-Qs10g5oyx6Y9es2Zq6WFxV/view?usp=sharing)
+- 📫 How to reach me *bhosalekirti2002@gmail.com*
 
- 
+- 📄 Know about my experiences [Resumé]([https://drive.google.com/file/d/1GgP3iurT80s1oZq88EeYeGyXPJC_n_FU/view?usp=sharing](https://drive.google.com/file/d/1gQ1LyX41G-Qs10g5oyx6Y9es2Zq6WFxV/view?usp=sharing))
 
- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirti-bhosale-0417011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti-bhosale-0417011a7" height="30" width="40" /></a>
@@ -39,5 +38,4 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirti136&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirti136&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirti136&theme=github_dark&utcOffset=8">
-	
 </p>
