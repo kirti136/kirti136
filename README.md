@@ -3,12 +3,12 @@
 <h3 align="center">Passionate Full Stack Web Developer</h3>
 
 <div align="center">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E" alt="Typing SVG" /></a>
 </div>
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
-<!-- <a href="#"> portfolio </a> -->
-<img src="https://i.gifer.com/origin/49/498f434e156b677f04417efb6e22fef5.gif" width="350px" align="right">
+
+<img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirti136&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
