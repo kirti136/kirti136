@@ -12,13 +12,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://dcs1997.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kirti136.github.io)
 
-- 📫 How to reach me *dhirajsalvi099@gmail.com*
+- 📫 How to reach me *bhosalekirti2002@gmail.com*
 
-- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1GgP3iurT80s1oZq88EeYeGyXPJC_n_FU/view?usp=sharing)
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1gQ1LyX41G-Qs10g5oyx6Y9es2Zq6WFxV/view?usp=sharing)
 
-- ⚡ Fun fact *I can produce drum sound with mouth called as Beatbox*
+- ⚡ Fun fact *Can produce best ot of waste*
 
 
 <h3 align="left">Connect with me:</h3>
