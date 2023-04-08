@@ -12,6 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://dcs1997.github.io)
+
+- 📫 How to reach me *dhirajsalvi099@gmail.com*
+
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1GgP3iurT80s1oZq88EeYeGyXPJC_n_FU/view?usp=sharing)
+
+- ⚡ Fun fact *I can produce drum sound with mouth called as Beatbox*
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirti-bhosale-0417011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti-bhosale-0417011a7" height="30" width="40" /></a>
