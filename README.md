@@ -12,11 +12,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 <!-- - Details:
-- 📫 E-mail: *bhosalekirti2002@gmail.com*
+- 📫 E-mail *bhosalekirti2002@gmail.com*
 - 📄 [Resume](https://drive.google.com/file/d/1gQ1LyX41G-Qs10g5oyx6Y9es2Zq6WFxV/view?usp=sharing)
  -->
  
- - 📫 How to reach me *dhirajsalvi099@gmail.com*
 
  
 <h3 align="left">Connect with me:</h3>
