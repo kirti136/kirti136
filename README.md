@@ -11,10 +11,14 @@
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="350px" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
-- Details:
+<!-- - Details:
 - 📫 E-mail: *bhosalekirti2002@gmail.com*
 - 📄 [Resume](https://drive.google.com/file/d/1gQ1LyX41G-Qs10g5oyx6Y9es2Zq6WFxV/view?usp=sharing)
+ -->
+ 
+ - 📫 How to reach me *dhirajsalvi099@gmail.com*
 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kirti-bhosale-0417011a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirti-bhosale-0417011a7" height="30" width="40" /></a>
