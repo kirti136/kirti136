@@ -8,9 +8,9 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 <!-- <a href="#"> portfolio </a> -->
-<img src="https://i0.wp.com/milkywaytechhub.com/wp-content/uploads/2020/11/blacktech.gif" width="350px" align="right">
+<img src="https://media.tenor.com/2l4p482TgAoAAAAM/computer-lol.gif" width="350px" align="right">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dcs1997&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirti136&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://kirti136.github.io)
 
