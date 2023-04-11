@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirti136&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://kirti136.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kirti136.github.io/)
 
 - 📫 How to reach me *bhosalekirti2002@gmail.com*
 
