@@ -17,7 +17,7 @@
 
 - 📫 How to reach me *bhosalekirti2002@gmail.com*
 
-- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1gQ1LyX41G-Qs10g5oyx6Y9es2Zq6WFxV/view?usp=sharing)
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1C-XB3UV4tw-ZoT9ZIuAmIcMkeVBRrXDu/view?usp=sharing)
 
 - ⚡ Fun fact *"Did you know that the first computer bug was a real insect? In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They taped the moth into their logbook and coined the term 'debugging'! 🐛💻 #CodingHistory"*
 
